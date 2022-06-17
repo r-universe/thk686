@@ -1,0 +1,14 @@
+[
+  {
+    "package": "kdtools",
+    "oncran": true
+  },
+  {
+    "package": "odeintr",
+    "oncran": true
+  },
+  {
+    "package": "strider",
+    "oncran": true
+  }
+]
