@@ -1,9 +1,5 @@
 [
   {
-    "package": "kdtools",
-    "oncran": true
-  },
-  {
     "package": "odeintr",
     "oncran": true
   },

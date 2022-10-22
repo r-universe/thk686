@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "kdtools"]
-	path = kdtools
-	url = https://github.com/thk686/kdtools
-	shallow = true
-	registered = true
 [submodule "odeintr"]
 	path = odeintr
 	url = https://github.com/thk686/odeintr
