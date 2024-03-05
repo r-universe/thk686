@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "colorRamps"]
-	path = colorRamps
-	url = https://github.com/cran/colorRamps
 [submodule "odeintr"]
 	path = odeintr
 	url = https://github.com/thk686/odeintr
