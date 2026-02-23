@@ -5,6 +5,3 @@
 [submodule "fftab"]
 	path = fftab
 	url = https://github.com/thk686/fftab
-[submodule "strider"]
-	path = strider
-	url = https://github.com/thk686/strider
